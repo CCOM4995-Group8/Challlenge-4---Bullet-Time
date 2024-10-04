@@ -1,4 +1,4 @@
-Player Novement script:
+Player Movement script:
 
 ![image](https://github.com/user-attachments/assets/844caf02-4fef-4374-b962-42e7769962a6)
 
